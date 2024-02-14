@@ -1,2 +1,1 @@
-# Forest_Fire_Detection
-Comparative Analysis of Pre-trained models on the basis of their accuracy with regards to forest fire detection
+Our objective is to compare different pre trained models to detect fires (specifically forest fires) and conclude which model is most accurate amongst them. This should help the user to select the software which would be best to train a model for this specific use-case (that is, detection of forest fires)
